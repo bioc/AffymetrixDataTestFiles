@@ -1,6 +1,6 @@
 Package: AffymetrixDataTestFiles
-Version: 0.1.0
-Date: 2007-08-27
+Version: 0.1.1
+Date: 2008-04-08
 Title: Affymetrix data files (CEL, CDF, CHP, EXP, PSI) for testing
 Author: Henrik Bengtsson, James Bullard, Kasper Daniel Hansen
 Description: This package contains annotation data files and sample data files of Affymetrix file formats.  The files originate from the Affymetrix' Fusion SDK distribution.
