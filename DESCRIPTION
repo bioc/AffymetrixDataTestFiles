@@ -5,7 +5,6 @@ Title: Affymetrix data files (CEL, CDF, CHP, EXP, PGF, PSI) for testing
 Authors@R: c(
   person("Henrik", "Bengtsson", role=c("aut", "cre"), email="henrikb@braju.com"),
   person("James", "Bullard", role=c("aut")),
-  person("Robert", "Gentleman", role=c("aut")),
   person("Kasper Daniel", "Hansen", role=c("aut")))
 Author: Henrik Bengtsson [aut, cre], James Bullard [aut], Kasper Daniel Hansen [aut]
 Description: This package contains annotation data files and sample data files of Affymetrix file formats.  The files originate from the Affymetrix' Fusion SDK distribution and other official sources.
