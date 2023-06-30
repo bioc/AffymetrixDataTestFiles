@@ -12,3 +12,4 @@
 ^.test
 ^[^/]*Data/
 README.md
+external_data_store.txt
