@@ -1,5 +1,5 @@
 Package: AffymetrixDataTestFiles
-Version: 0.42.0
+Version: 0.43.0
 Title: Affymetrix Data Files (CEL, CDF, CHP, EXP, PGF, PSI) for Testing
 Authors@R: c(
   person("Henrik", "Bengtsson", role=c("aut", "cre"), email="henrikb@braju.com"),
